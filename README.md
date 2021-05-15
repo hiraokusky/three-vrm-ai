@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
+yarn start
 yarn add three @pixiv/three-vrm
-
+yarn add three-ik
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

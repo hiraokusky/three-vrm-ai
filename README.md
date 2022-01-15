@@ -4,6 +4,14 @@ yarn start
 yarn add three @pixiv/three-vrm
 yarn add three-ik
 
+
+yarn build
+yarn deploy
+
+git remote add origin https://github.com/hiraokusky/three-vrm-ai.git
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
